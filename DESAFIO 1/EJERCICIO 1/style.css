@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+article{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 90pt;
+    color: #0a2ff1;
+    font-weight: 800;
+    margin: 20px 0;
+    
+}
+
+h2{
+    font-size: 30pt;
+    color: #04146c;
+    margin: 20px 0;
+    text-align: center;
+    font-weight: 400;
+}
+
+#boton1{
+    font-size: 30pt;
+    color: white;
+    background-color: #0a2ff1;
+    padding: 5px;
+    margin: 20px 0;
+    border: 3px solid #0a2ff1;
+}
+
+#boton2{
+    font-size: 30pt;
+    background-color: white;
+    color: #04146c;
+    padding: 5px;
+    margin: 20px 0;
+    border: 3px solid #0a2ff1;
+
+}
